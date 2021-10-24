@@ -303,7 +303,7 @@
 
 	function makeTimer() {
 
-		var endTime = new Date("21 November 2020 20:00:00 GMT+05:00");			
+		var endTime = new Date("07 November 2021 20:00:00 GMT+05:00");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
